@@ -1,10 +1,11 @@
 - 👋 Hi, I’m José Matos
 - 👀 I’m a Senior Software Engineer
-- 📫 How to reach me at developer@josematoswork.com
+- 📫 Reach me at developer@josematoswork.com
 - 😄 Pronouns: he/him
 
 - Check my website at https://josematoswork.com
 - Check my blog at https://blog.josematos.work
+- Check my Linkedin profile at https://www.linkedin.com/in/jose-matos-software-engineer/
 
 ### 🛠 &nbsp;Languages and Tools :
 
